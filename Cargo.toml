@@ -6,6 +6,6 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = ["book/*", "rustlings"]
+members = ["book/*", "practice/*", "rustlings"]
 exclude = ["src", "target", ".git"]
 resolver = "3"
