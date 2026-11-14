@@ -61,10 +61,10 @@ Project-based. Each project becomes a crate under `secrets/` (e.g. `secrets/ch_0
 
 Knowledge _Rust for Rustaceans_ assumes.
 
-- [ ] **15 Smart Pointers** (`read`, all of it) ← **_current_**
-  - [ ] 15.1 `Box<T>` · 15.2 `Deref` · 15.3 `Drop`
-  - [ ] 15.4 `Rc<T>` · 15.5 `RefCell<T>` and interior mutability · 15.6 Reference cycles
-- [ ] **16 Fearless Concurrency**
+- [x] **15 Smart Pointers** (`read`, all of it)
+  - [x] 15.1 `Box<T>` · 15.2 `Deref` · 15.3 `Drop`
+  - [x] 15.4 `Rc<T>` · 15.5 `RefCell<T>` and interior mutability · 15.6 Reference cycles
+- [ ] **16 Fearless Concurrency** ← **_current_**
 - [ ] **17 Async and Await**
 - [ ] **18.1** Characteristics of OO languages
 - [ ] **18.2** Trait objects
