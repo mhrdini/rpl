@@ -4,7 +4,7 @@
 | :---: | ------------------------------------------------------------------------- | :----: |
 |   1   | _The Rust Programming Language_: prerequisites (ch 1 to 11, 13.1 to 13.2) |   ✅   |
 |   2   | _The Secrets of Rust: Tools_                                              |   ⏳   |
-|   3   | _The Rust Programming Language_: advanced chapters (ch 15 to 20)          |   💤   |
+|   3   | _The Rust Programming Language_: advanced chapters (ch 15 to 20)          |   ⏳   |
 |   4   | _Rust for Rustaceans_                                                     |   💤   |
 
 ---
@@ -50,11 +50,10 @@ Run any crate with `cargo run` from inside its folder, or `cargo run -p <package
 
 Project-based. Each project becomes a crate under `secrets/` (e.g. `secrets/ch_03_args`).
 
-- [ ] **Ch 1 to 4**: crates, errors, arguments, flags (`clap`, `assert_cmd`) ← **_current_**
-- [ ] **Ch 5 to 6**: files, `Path`/`AsRef`, documentation, publishing, `serde` and data modelling
-- [ ] **Ch 7**: HTTP client, mock testing, the newtype pattern
+- [x] **Ch 1 to 4**: crates, errors, arguments, flags (`clap`, `assert_cmd`)
+- [x] **Ch 5 to 6**: files, `Path`/`AsRef`, documentation, publishing, `serde` and data modelling
+- [x] **Ch 7**: HTTP client, mock testing, the newtype pattern
 - [ ] **Ch 8**: running commands, and a Cargo plugin
-- [ ] Exercises done
 
 ---
 
@@ -62,7 +61,7 @@ Project-based. Each project becomes a crate under `secrets/` (e.g. `secrets/ch_0
 
 Knowledge _Rust for Rustaceans_ assumes.
 
-- [ ] **15 Smart Pointers** (`read`, all of it)
+- [ ] **15 Smart Pointers** (`read`, all of it) ← **_current_**
   - [ ] 15.1 `Box<T>` · 15.2 `Deref` · 15.3 `Drop`
   - [ ] 15.4 `Rc<T>` · 15.5 `RefCell<T>` and interior mutability · 15.6 Reference cycles
 - [ ] **16 Fearless Concurrency**
