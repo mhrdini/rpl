@@ -64,8 +64,8 @@ Knowledge _Rust for Rustaceans_ assumes.
 - [x] **15 Smart Pointers** (`read`, all of it)
   - [x] 15.1 `Box<T>` · 15.2 `Deref` · 15.3 `Drop`
   - [x] 15.4 `Rc<T>` · 15.5 `RefCell<T>` and interior mutability · 15.6 Reference cycles
-- [ ] **16 Fearless Concurrency** ← **_current_**
-- [ ] **17 Async and Await**
+- [x] **16 Fearless Concurrency**
+- [ ] **17 Async and Await** ← **_current_**
 - [ ] **18.1** Characteristics of OO languages
 - [ ] **18.2** Trait objects
 - [ ] **19 Patterns and Matching**
